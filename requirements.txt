@@ -1,9 +1,0 @@
-streamlit-option-menu
-seaborn 
-matplotlib
-plotly
-pandas
-numpy
-streamlit
-joblib
-altair==4.1.0
