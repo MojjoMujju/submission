@@ -1,0 +1,13 @@
+streamlit-option-menu
+seaborn 
+matplotlib
+plotly
+pandas
+numpy
+streamlit
+joblib
+altair==4.1.0
+beautifulsoup4==4.9.1
+dateparser==0.7.6
+requests==2.24.0
+feedparser==6.0.8
