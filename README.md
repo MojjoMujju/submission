@@ -25,11 +25,11 @@ Ubah Intepreter ke enviroment yang telah dibuat lalu jalankan:
 pipenv install -r requirements.txt
 ```
 
-Untuk Dokumentasi lebih lengkap, anda dapat melihat pada link('https://drive.google.com/file/d/1es8RMCBX8vb36RQZUX5jeRosfZhpuuqy/view?usp=sharing') untuk dokumentasi yang telah saya buat.
-
 ## Run Streamlit app
 ```
 streamlit run dashboard.py
 ```
 
 Make sure the dataset path is set correctly
+
+atau anda bisa melihat vidio dokumentasi hasil dari dashboard yang telah saya buat pada link berikut (https://drive.google.com/file/d/1EnrQttFMgXtP9-qhgVr22pC6eb9KWgRS/view?usp=sharing)
