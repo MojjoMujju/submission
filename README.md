@@ -32,4 +32,4 @@ streamlit run dashboard.py
 
 Make sure the dataset path is set correctly
 
-atau anda bisa melihat vidio dokumentasi hasil dari dashboard yang telah saya buat pada link berikut (https://drive.google.com/file/d/1EnrQttFMgXtP9-qhgVr22pC6eb9KWgRS/view?usp=sharing)
+atau anda bisa melihat vidio dokumentasi hasil dari dashboard yang telah saya buat pada link berikut (https://drive.google.com/file/d/1Eq0eUnhnCbPIyRMuOptajnWymX8NZHiT/view?usp=sharing)
